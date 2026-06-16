@@ -1,5 +1,5 @@
 public class thanu {
-	 public static void main(thanu[]args) {
+	 public static void main(String[]args) {
 		 System.out.println("hello world!");
 	 }
 	     
